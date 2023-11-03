@@ -1,2 +1,2 @@
 this is one.txt file. this file is for example.
-new line for example
+bug means error.
